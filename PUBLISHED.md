@@ -19,3 +19,4 @@
 | 15 | 2026-11-18 | Samsung Dishwasher 5C / 5E | /samsung/dishwasher/5c/ |
 | 16 | 2026-11-18 | LG Dishwasher OE | /lg/dishwasher/oe/ |
 | 17 | 2026-11-18 | LG Dishwasher IE | /lg/dishwasher/ie/ |
+| 18 | 2026-11-19 | Bosch Dishwasher E15 | /bosch/dishwasher/e15/ |
