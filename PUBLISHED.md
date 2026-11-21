@@ -21,3 +21,4 @@
 | 17 | 2026-11-18 | LG Dishwasher IE | /lg/dishwasher/ie/ |
 | 18 | 2026-11-19 | Bosch Dishwasher E15 | /bosch/dishwasher/e15/ |
 | 19 | 2026-11-20 | Bosch Dishwasher E24 | /bosch/dishwasher/e24/ |
+| 20 | 2026-11-21 | Bosch Dishwasher E25 | /bosch/dishwasher/e25/ |

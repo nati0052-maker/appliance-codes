@@ -21,7 +21,7 @@ Take the first unchecked item each night. Verify the code against the manufactur
 - [x] LG dishwasher IE (water inlet)
 - [x] Bosch dishwasher E15 (leak protection)
 - [x] Bosch dishwasher E24 (drain)
-- [ ] Bosch dishwasher E25 (drain pump)
+- [x] Bosch dishwasher E25 (drain pump)
 - [ ] GE dishwasher H2O (no water)
 - [ ] Frigidaire dishwasher i20 (drain)
 - [ ] Samsung dryer HE (heating)
