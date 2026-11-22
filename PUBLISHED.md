@@ -22,3 +22,5 @@
 | 18 | 2026-11-19 | Bosch Dishwasher E15 | /bosch/dishwasher/e15/ |
 | 19 | 2026-11-20 | Bosch Dishwasher E24 | /bosch/dishwasher/e24/ |
 | 20 | 2026-11-21 | Bosch Dishwasher E25 | /bosch/dishwasher/e25/ |
+| 21 | 2026-11-22 | GE Dishwasher H2O / H20 | /ge/dishwasher/h2o/ |
+| 22 | 2026-11-22 | Frigidaire Dishwasher i20 | /frigidaire/dishwasher/i20/ |
