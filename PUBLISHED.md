@@ -24,3 +24,5 @@
 | 20 | 2026-11-21 | Bosch Dishwasher E25 | /bosch/dishwasher/e25/ |
 | 21 | 2026-11-22 | GE Dishwasher H2O / H20 | /ge/dishwasher/h2o/ |
 | 22 | 2026-11-22 | Frigidaire Dishwasher i20 | /frigidaire/dishwasher/i20/ |
+| 23 | 2026-11-23 | Samsung Dryer HE / hE / HC | /samsung/dryer/he/ |
+| 24 | 2026-11-23 | LG Dryer d80 / d90 / d95 | /lg/dryer/d80/ |
