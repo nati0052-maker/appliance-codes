@@ -26,3 +26,5 @@
 | 22 | 2026-11-22 | Frigidaire Dishwasher i20 | /frigidaire/dishwasher/i20/ |
 | 23 | 2026-11-23 | Samsung Dryer HE / hE / HC | /samsung/dryer/he/ |
 | 24 | 2026-11-23 | LG Dryer d80 / d90 / d95 | /lg/dryer/d80/ |
+| 25 | 2026-11-24 | Whirlpool Dryer PF | /whirlpool/dryer/pf/ |
+| 26 | 2026-11-24 | GE Dishwasher C1 | /ge/dishwasher/c1/ |
