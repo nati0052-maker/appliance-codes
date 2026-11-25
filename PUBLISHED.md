@@ -28,3 +28,5 @@
 | 24 | 2026-11-23 | LG Dryer d80 / d90 / d95 | /lg/dryer/d80/ |
 | 25 | 2026-11-24 | Whirlpool Dryer PF | /whirlpool/dryer/pf/ |
 | 26 | 2026-11-24 | GE Dishwasher C1 | /ge/dishwasher/c1/ |
+| 27 | 2026-11-25 | GE Dishwasher C3 | /ge/dishwasher/c3/ |
+| 28 | 2026-11-25 | GE Dishwasher C6 | /ge/dishwasher/c6/ |
