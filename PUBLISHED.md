@@ -30,3 +30,5 @@
 | 26 | 2026-11-24 | GE Dishwasher C1 | /ge/dishwasher/c1/ |
 | 27 | 2026-11-25 | GE Dishwasher C3 | /ge/dishwasher/c3/ |
 | 28 | 2026-11-25 | GE Dishwasher C6 | /ge/dishwasher/c6/ |
+| 29 | 2026-11-26 | LG Dishwasher LE | /lg/dishwasher/le/ |
+| 30 | 2026-11-26 | Bosch Dishwasher E09 | /bosch/dishwasher/e09/ |
