@@ -32,3 +32,5 @@
 | 28 | 2026-11-25 | GE Dishwasher C6 | /ge/dishwasher/c6/ |
 | 29 | 2026-11-26 | LG Dishwasher LE | /lg/dishwasher/le/ |
 | 30 | 2026-11-26 | Bosch Dishwasher E09 | /bosch/dishwasher/e09/ |
+| 31 | 2026-11-27 | Bosch Dishwasher E22 | /bosch/dishwasher/e22/ |
+| 32 | 2026-11-27 | Samsung Washer Sd | /samsung/washer/sd/ |
